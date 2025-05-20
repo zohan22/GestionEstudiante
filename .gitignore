@@ -1,0 +1,44 @@
+# .NET Core / .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vscode/
+.vs/
+
+# Build outputs
+*.dll
+*.exe
+*.app
+*.pdb
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+
+# Others
+*.log
+*.DS_Store
+*.db
+*.sqlite
+
+# Rider
+.idea/
+*.sln.iml
+
+# Packages
+packages/
+*.nupkg
+
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VS Code
+.history/
